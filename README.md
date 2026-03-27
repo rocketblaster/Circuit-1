@@ -1,4 +1,4 @@
-# LED Oscillator circuit
+<img width="316" height="171" alt="Screenshot 2026-03-26 at 10 41 48 PM" src="https://github.com/user-attachments/assets/27fb3a4f-25b2-4c48-8dd8-f798b3ef2286" /># LED Oscillator circuit
 
 https://is.gd/QYAum3
 I'm building LED alternating lights when one is off and one becomes on because it is simple and researchable for a beginner for me.
@@ -7,7 +7,8 @@ I'm building LED alternating lights when one is off and one becomes on because i
 
 Today I worked on prototyping a few circuits. I originally first tried to create a circuit on my own, following the tutorial. I managed to get something working though. In one of my timelapses with the three LEDs, with the resistors before the LED it managed to slowly close one by one. Having a resistor in between two LEDs worked and a resistor in parallel to the series circuit. I built it this way because it worked and achieved a blinking effect when I tested it.
 
-![image](image.png)
+!(<img width="316" height="171" alt="Screenshot 2026-03-26 at 10 41 48 PM" src="https://github.com/user-attachments/assets/0c65c835-27a8-4881-8bd7-783dc259ae1e" />
+ng)
 Image of my lapse
 
 Through researching I ran into an issue with parallel circuits not working, and it looks like the power gets cut off.
