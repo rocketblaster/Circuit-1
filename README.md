@@ -14,7 +14,7 @@ Through researching I ran into an issue with parallel circuits not working, and 
 
 ### Time Spent: 0.5 Hours
 
-## Date - More Prototyping
+## March 26 - More Prototyping
 
 Today I am restarting over again and continuing the research from before. The goal is to create an LED oscillator circuit. I found a diagram on instructables with a guide I can reference. This is week 1, but I am going to include transistors maybe because it splits the power. I ended up building my circuit as a parallel circuit and I notice it doesn’t work as all the LEDs close when I turn on and off the switch. I decided to add another resistor between my two LEDs. If I want my second led to turn off slower, I might want to change my resistor value from 1k to lower. I wonder which one though… My problem is when I added the resistor between the LEDs, the second LED already started dimming. As if the dim light was the default. In an attempt to change the capacitor to have a large capacity of energy, the LED dimmed slowly since there was a lot of leftover potential energy. But it was all at the same time.
 
