@@ -1,4 +1,4 @@
-<img width="316" height="171" alt="Screenshot 2026-03-26 at 10 41 48 PM" src="https://github.com/user-attachments/assets/27fb3a4f-25b2-4c48-8dd8-f798b3ef2286" /># LED Oscillator circuit
+# LED charge circuit
 
 https://is.gd/QYAum3
 I'm building LED alternating lights when one is off and one becomes on because it is simple and researchable for a beginner for me.
