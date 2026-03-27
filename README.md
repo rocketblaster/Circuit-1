@@ -24,15 +24,19 @@ My problem is not getting the correct keywords for researching. So I decided to 
 
 I designed my circuit this way because the LEDs need a resistor so I added it right before they reach ground and a capacitor in between. A two terminal power source did not work for me because the series circuit cut off the voltage source to everything connected within the circuit. When I tested it out with the switch, I saw one LED turn off and the other turned on, but when I try to close the circuit the other LED eventually turns on, resulting in two leds turning on.
 
-
-
-![image](image.png)
+<img width="788" height="247" alt="Screenshot 2026-03-26 at 7 50 59 PM" src="https://github.com/user-attachments/assets/558ce7d0-21f3-40ef-9d57-7a830bb76147" />
 
 I attempted to move the LEDs after the resistors and changed the size of the capacitor to small resulting in a faster dimmed light.
+
+<img width="758" height="224" alt="Screenshot 2026-03-26 at 8 09 09 PM" src="https://github.com/user-attachments/assets/dff05aa4-8877-4b2c-a703-ca38aafc3e54" />
 
 
 Tested with more leds, but nothing changed in terms of brightness.
 
+<img width="874" height="265" alt="Screenshot 2026-03-26 at 8 14 18 PM" src="https://github.com/user-attachments/assets/1f579b82-f615-450d-ac78-46153ccdd489" />
+
 A similar case happens when I try to make it like that.
+
+<img width="823" height="281" alt="Screenshot 2026-03-26 at 8 18 37 PM" src="https://github.com/user-attachments/assets/9ab5117d-81f8-4622-88cb-bc96c506ba07" />
 
 ### Time Spent: 1 Hour
